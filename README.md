@@ -34,3 +34,24 @@
 #### Image of the result of project 1 ୧
 ![toreadme](https://user-images.githubusercontent.com/92932195/228085619-d1e59871-1349-43f6-b8e0-420cadc4e451.png)
 
+
+### Class 2 -> Sticker Generator for WhatsApp ୧
+
+૪ On the second day, the images available in the request data (JSON) were used to create stickers. With the help of the java.awt, java.io and java.ImageIO packages, it was possible to edit images and insert texts.
+<br>
+૪ In this program, we will use the movie note as the basis for the phrase that will be generated with your sticker.
+<br>
+૪ 1. If the film has a score of 8 or higher, it will be printed with the phrase: "BRABO D+!".
+<br>
+૪ 2. If the film has a score lower than 8 and higher than 4, the film will be printed with the phrase: "TEM MELHORES...".
+<br>
+૪ 3. If the film has a score lower than 4 , the film will be printed with the phrase: "NÃO VALE A PENA".
+<br>
+
+#### Image of the result of project 2 ୧
+![teste1](https://user-images.githubusercontent.com/92932195/228356943-2634b062-991c-44ed-97ff-100ee7dd0736.png)
+
+<br>
+
+![ Thor  Love and Thunder](https://user-images.githubusercontent.com/92932195/228357045-b7207eff-9f78-4711-9923-503f21d57757.png)
+![ Top Gun  Maverick](https://user-images.githubusercontent.com/92932195/228357094-6bf8ba82-a65e-40fe-ace1-766703fb175e.png)
