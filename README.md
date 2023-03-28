@@ -51,6 +51,5 @@
 #### Image of the result of project 2 ୧
 ![teste1](https://user-images.githubusercontent.com/92932195/228356943-2634b062-991c-44ed-97ff-100ee7dd0736.png)
 
-<br>
 
-<img src="https://user-images.githubusercontent.com/92932195/228357045-b7207eff-9f78-4711-9923-503f21d57757.png" width="400" height="450"/>     <img src="https://user-images.githubusercontent.com/92932195/228357094-6bf8ba82-a65e-40fe-ace1-766703fb175e.png" width="400" height="450"/>
+<img src="https://user-images.githubusercontent.com/92932195/228357045-b7207eff-9f78-4711-9923-503f21d57757.png" width="300" height="450"/>     <img src="https://user-images.githubusercontent.com/92932195/228357094-6bf8ba82-a65e-40fe-ace1-766703fb175e.png" width="400" height="450"/>
