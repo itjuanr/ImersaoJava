@@ -46,7 +46,7 @@ public class App {
             } else if ( classificacao < 8 && classificacao > 4){
                 textoSticker = "TEM MELHORES...";
             } else {
-                textoSticker = "NÃO VALE A PENA";
+                textoSticker = "NÃO VALE A PENA.";
             }
             
             InputStream inputStream = new URL(UrlImagem).openStream();
