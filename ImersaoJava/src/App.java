@@ -35,7 +35,6 @@ public class App {
             }
 
             System.out.println("\n");
-            System.out.print("Teste");
         }
 
     }
