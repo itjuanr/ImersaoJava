@@ -16,7 +16,7 @@
 
 
 
-### Class 1 -> imdb-api ୧
+### Class 1 -> Consuming a movie API with Java ୧
 
 ૪ In this class, the public API of the IMDB site was used with the endpoint `top250movies`. 
 <br>
@@ -35,7 +35,7 @@
 ![toreadme](https://user-images.githubusercontent.com/92932195/228085619-d1e59871-1349-43f6-b8e0-420cadc4e451.png)
 
 
-### Class 2 -> Sticker Generator for WhatsApp ୧
+### Class 2 -> Generating stickers for WhatsApp ୧
 
 ૪ On the second day, the images available in the request data (JSON) were used to create stickers. With the help of the java.awt, java.io and java.ImageIO packages, it was possible to edit images and insert texts.
 <br>
@@ -53,3 +53,24 @@
 
 
 <img src="https://user-images.githubusercontent.com/92932195/228357045-b7207eff-9f78-4711-9923-503f21d57757.png" width="400" height="550"/> <img src="https://user-images.githubusercontent.com/92932195/228357094-6bf8ba82-a65e-40fe-ace1-766703fb175e.png" width="400" height="550"/>
+
+
+### Class 3 -> Connecting the ends, refactoring and object orientation ୧
+
+૪ Refactoring the App, transferring part of the code into new classes.
+<br>
+૪ 1. Creating classes for: "Conteudo" and "ClienteHttp".
+<br>
+૪ 2. Creating an interface for the new extractor classes: "ExtratorDeConteudoDoIMDB" and "ExtratorDeConteudoDaNasa".
+<br>
+૪ 3. Modified from Class 2: After creating the HttpClient class, we changed all the code that fetched data in .json to an object of type HttpClient and the same for ExtractorConteudo.
+<br>
+૪ 4. Creating a list of contents.
+<br>
+૪ 5. In the loop that generates the images, we get each content from the list, calling its properties through the .getTitle() and .getUrlImage() methods.
+<br>
+૪ 6. Some StickerGenerator modifications.
+<br>
+
+#### Image of the result of project 3 ୧
+<img src="https://user-images.githubusercontent.com/92932195/228680810-a50bb4d6-25b4-4de7-800e-a76258466d3f.png" width="400" height="550"/> <img src="https://user-images.githubusercontent.com/92932195/228680817-0054bee8-60e6-47cd-a640-92fbc79aed1c.png" width="400" height="550"/>
